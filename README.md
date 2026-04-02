@@ -266,6 +266,10 @@ FP Reduction          ── 35.4% better ──
 
 ## 📊 Power BI Dashboard
 
+![Power BI Dashboard](screenshots/churn_dashboard.png)
+
+> **Dashboard shows:** KPI Cards (7,000 customers | 1,201 flagged | ₹37.6L retention value | 97.6% FP reduction) + Risk Tier Pie Chart + Churn by Contract Type Bar Chart + Churn by Tenure Line Chart + Retention Priority Table + Monthly Charges vs Churn Scatter Plot
+
 The dashboard contains **6 interactive visualizations**:
 
 | # | Chart | Type | Key Insight |
